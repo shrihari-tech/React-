@@ -34,8 +34,4 @@ jobs:
     - name: Run tests
       run: npm test
       env:
-<<<<<<< HEAD
         CI: true
-=======
-        CI: true
->>>>>>> 588d18c08f88e79677aa4b004eddf8cf19106c9e
